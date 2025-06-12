@@ -1,4 +1,4 @@
-## Welcome to my profile 👋
+## Welcome to my profile!!
 
 <h1 align="center">Hi 👋, I'm Samukelo Mnguni</h1>
 <h3 align="center">A passionate BI Developer</h3>
